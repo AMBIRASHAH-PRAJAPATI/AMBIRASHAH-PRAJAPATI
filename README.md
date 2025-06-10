@@ -8,9 +8,9 @@
 <h3 align="left">🌐 Socials</h3>
 
 <div align="left">
-<a href="https://www.linkedin.com/in/ambirashah-prajapati-959922238/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambirashah prajapat" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/rajprajapati3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ambirashah Prajapati" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/AMBIRASHAH-PRAJAPATI/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ambirashah Prajapati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ambirashah-prajapati-959922238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambirashah prajapat" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rajprajapati3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ambirashah Prajapati" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/AMBIRASHAH-PRAJAPATI/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ambirashah Prajapati" height="30" width="40" /></a>
 </div>
 
 
