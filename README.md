@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ambirashah Prajapati</h1>
 
-<img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif" alt="Coding" align="right" width="300">
+<img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif" alt="Coding" align="right" width="250">
 <h2> 💫 About Me: </h2>
 
 <p>I'm a Software Developer, working on building and optimizing production-ready web applications</p>
