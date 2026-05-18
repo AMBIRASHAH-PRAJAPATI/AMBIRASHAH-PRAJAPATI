@@ -3,7 +3,15 @@
 <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif" alt="Coding" align="right" width="250">
 <h2> 💫 About Me: </h2>
 
-<p>I'm a Software Developer, working on building and optimizing production-ready web applications</p>
+<p>I'm Ambirashah Prajapati, a full-stack software developer with a B.Tech in Computer Science from IIIT Bhopal (2025).
+
+I currently work at Codesmith as an Associate Software Developer, where I build production-grade backend microservices in Go using ConnectRPC, proto3, and PostgreSQL, and craft responsive, data-driven frontends using Svelte and React. I've led end-to-end feature delivery across multiple live products, working closely with product and engineering teams to ship scalable, maintainable software.
+
+My core stack includes Go, JavaScript, TypeScript, React, Svelte, Node.js, Express.js, PostgreSQL, and MongoDB. I'm comfortable across the full stack — from designing APIs and database schemas to building complex UI workflows.
+
+Outside of work, I enjoy competitive programming and have been recognized with a Best Paper Award at an international Scopus-indexed conference (ICCWC 2023) at NIT Jalandhar.
+
+Always open to interesting problems, meaningful projects, and good engineering conversations.</p>
 
 <h3 align="left">🌐 Socials</h3>
 
